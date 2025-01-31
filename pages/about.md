@@ -14,10 +14,7 @@ credits: true
 
 ## About the Collection
 
-This is a demo collection to practice using CB-UH. I hope to learn how:
 
-- To use Markdown
-- To use the GitHub web interface
 
 
 ## Collection History
