@@ -11,9 +11,9 @@ credits: true
 
 
 ## About the Collection
+This collection of data has been collected by students from Illinois Institute of Technology and is saved within the library's respiratory. Each group of students have done research relating to Chicago's coin-op industry and has collected data from their findings. The point of this collection website is to give these groups a platform for their data and makes them more available to the public.
 
-
-
+All the data that has been collected consits of interviews, photos, and locations of industries that the students visted. 
 
 ## Collection History
 Chicago has a long history of coin-operated machines, such as arcade game machines, pinball machines, and jukeboxes. In the early 20th century, Chicago became the top dog of the coin-op industry, with companies innovating new ways to entertain people in bars, restaurants, and arcades. When it came to coin-operated entertainment the two big ones are arcade machines and pinball machines.
