@@ -1,5 +1,5 @@
 ---
 title: Doc Mack
 layout: about
-permalink: /Doc_Mack.html
+permalink: /Galloping_Ghost_Arcade.html
 ---
