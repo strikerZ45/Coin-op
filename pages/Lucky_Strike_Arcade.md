@@ -3,6 +3,7 @@ title: Lucky Strike Arcade
 layout: about
 permalink: /Lucky_Strike_Arcade.html
 ---
+[docs]: https://strikerz45.github.io/Coin-op/browse.html#lucky
 # Lucky Strike Arcade
 <img src="https://strikerz45.github.io/Coin-op/objects/Front_Sign.jpg" alt="Front of building"  height="450">
 
@@ -16,4 +17,4 @@ The director of this operation is Sean Davis, a very hard working man that has b
 <img src="https://strikerz45.github.io/Coin-op/objects/Pool_Room.jpg" alt="Sean Davis"  height="400">
 <img src="https://strikerz45.github.io/Coin-op/objects/Bowling_Alley.jpg" alt="Sean Davis"  height="400">
 
-To find more photos about Lucky Strike Arcade, please follow this link :https://strikerz45.github.io/Coin-op/browse.html#lucky
+To find more photos about Lucky Strike Arcade, please follow this link [here][docs]
