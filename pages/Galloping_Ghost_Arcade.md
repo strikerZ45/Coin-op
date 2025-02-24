@@ -5,6 +5,7 @@ permalink: /Galloping_Ghost_Arcade.html
 ---
 [ghost]: https://strikerz45.github.io/Coin-op/browse.html#galloping
 [davin]: https://strikerz45.github.io/Coin-op/browse.html#davin
+[doc]: https://strikerz45.github.io/Coin-op/browse.html#Doc%20
 # Galloping Ghost Arcade
 <img src="https://strikerz45.github.io/Coin-op/objects/Exterior%20Images%201.jpg" alt="Front of building"  height="450">
 
@@ -27,4 +28,4 @@ Davin Loh is a well known gamer at Galloping Ghost arcade, he has beaten many ar
 
 <img src="https://strikerz45.github.io/Coin-op/objects/loh09.JPG" alt="Davin Int"  height="400">
 
-To find more about [Doc Mack][ghost],[Davin Loh][davin], and more about [Galloping Ghost][ghost] arcade click the links. 
+To find more about [Doc Mack][doc],[Davin Loh][davin], and more about [Galloping Ghost][ghost] arcade click the links. 
