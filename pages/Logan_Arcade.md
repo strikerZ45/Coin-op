@@ -1,6 +1,6 @@
 ---
 title: Logan Arcade
-layout: browse
+layout: default
 permalink: /Logan_Arcade.html
 ---
 # Logan Arcade
