@@ -27,5 +27,4 @@ Davin Loh is a well known gamer at Galloping Ghost arcade, he has beaten many ar
 
 <img src="https://strikerz45.github.io/Coin-op/objects/loh09.JPG" alt="Davin Int"  height="400">
 
-To find more about [Doc Mack][ghost], [Davin Loh][davin], and more about [Galloping Ghost][ghost] arcade click the links.
-Also here is a Youtube video with an interview between Doc Mack and Davin Loh: (https://youtu.be/3SokHbjqfIQ) 
+To find more about [Doc Mack][ghost],[Davin Loh][davin], and more about [Galloping Ghost][ghost] arcade click the links. 
