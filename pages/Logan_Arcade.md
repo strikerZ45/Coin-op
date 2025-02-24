@@ -1,6 +1,6 @@
 ---
 title: Logan Arcade
-layout: about
+layout: item
 permalink: /Logan_Arcade.html
 ---
 # Logan Arcade
