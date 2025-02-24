@@ -24,5 +24,6 @@ The director of this operation is Sean Davis, a very hard working man that has b
 <img src="https://strikerz45.github.io/Coin-op/objects/Interview_with_Sean_Davis.jpg" alt="Prize Shop"  height="400">
 [Interview with Sean Davis](https://strikerz45.github.io/Coin-op/item.html?id=LuckyStrike19)
 
+
 Here are some items taken from the Lucky Strike FTW arcade collection. Taken by the group of students, to find more data about Lucky Strike Arcade, please follow this link [here][docs]
 
