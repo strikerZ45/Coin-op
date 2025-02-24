@@ -23,5 +23,6 @@ Davin Loh is a well known gamer at Galloping Ghost arcade, he has beaten many ar
 
 <img src="https://strikerz45.github.io/Coin-op/objects/Arcades%206.jpg" alt="Arcade"  height="400">
 
+
 <img src="https://strikerz45.github.io/Coin-op/objects/loh06.JPG" alt="Group Interview"  height="400">
 
