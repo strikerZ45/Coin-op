@@ -15,5 +15,5 @@ Lucky Strike FTW ( For the Win ) arcade is located in downtown Chicago. It is ho
 The director of this operation is Sean Davis, a very hard working man that has been around the entertainment industry. He has worked as a cook, waiter, bartender, manager, and general manager, so he is well aware of how to run a successful entertainment business. In 2011 he started working at Lucky Strike in Chicago and as a director, Davis keeps things in check. From making sure the arcade area is staffed to ordering, scheduling, and generally making sure each department is running smoothly. Mr. Davis is passionate about his work, he is caught playing some of his arcade machines making sure they are working and he loves watching people enjoy themselves in his business. 
 ## Collection
 <img src="https://strikerz45.github.io/Coin-op/objects/Pool_Room.jpg" alt="Sean Davis"  height="400">
-<img src="https://strikerz45.github.io/Coin-op/objects/Bowling_Alley.jpg" alt="Sean Davis" width="700" height="400">
+<img src="https://strikerz45.github.io/Coin-op/objects/Bowling_Alley.jpg" alt="Sean Davis" width="600" height="400">
 To find more photos about Lucky Strike Arcade, please follow this link [here][docs]
