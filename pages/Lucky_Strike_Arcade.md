@@ -16,9 +16,8 @@ The director of this operation is Sean Davis, a very hard working man that has b
 
 ## Collection
 <img src="https://strikerz45.github.io/Coin-op/objects/Pool_Room.jpg" alt="Sean Davis"  height="400">
-### Image 1
+
 <img src="https://strikerz45.github.io/Coin-op/objects/Bowling_Alley.jpg" alt="Sean Davis" width="650" height="400">
-### Image 2
 
 Here are just some of the photos taken at Lucky Strike FTW arcade
 To find more photos about Lucky Strike Arcade, please follow this link [here][docs]
