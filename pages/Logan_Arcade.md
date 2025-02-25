@@ -3,6 +3,7 @@ title: Logan Arcade
 layout: about
 permalink: /Logan_Arcade.html
 ---
+[Col]:https://strikerz45.github.io/Coin-op/browse.html#Logan
 # Logan Arcade
 <img src="https://strikerz45.github.io/Coin-op/objects/Pinball_Machines_01.JPG" alt="Pinball Hall"  height="450"> 
 
@@ -17,3 +18,7 @@ Owner of Logan arcade, Jim Zespy started his business in 2014 and has been growi
 <img src="https://strikerz45.github.io/Coin-op/objects/Pinball_Machines_03.JPG" alt="Pinball machine1"  height="450"> 
 <img src="https://strikerz45.github.io/Coin-op/objects/Arcades_04.JPG" alt="Arcade Machine1"  height="450"> 
 <img src="https://strikerz45.github.io/Coin-op/objects/Front_Desk.JPG" alt="Front Desk"  height="450"> 
+
+[Interview with Jim Zespy](https://strikerz45.github.io/Coin-op/item.html?id=loganArcade19)
+
+To find more data about Logan arcade, please follow the link right [here][col]
