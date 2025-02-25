@@ -3,7 +3,9 @@ title: Midwest Repair Shop
 layout: about
 permalink: /Midwest_Repair_Shop.html
 ---
-[mid]:
+[Rich]:https://strikerz45.github.io/Coin-op/item.html?id=MidWest13
+[George]:
+[mid]:https://strikerz45.github.io/Coin-op/browse.html#Midwest
 # Midwest Repair 
 <img src="https://strikerz45.github.io/Coin-op/objects/Broken_Pinball_Machine_02.JPG" alt="Broken Pinball1"  height="450">
 
@@ -26,3 +28,4 @@ Speaking of repairing old machines, no one has traveled all over to repair arcad
 
 <img src="https://strikerz45.github.io/Coin-op/objects/spanos02.jpg" alt="Spanos1"  height="450">
 
+To checkout more like interviews or more data from George Spanos or Risch Huff and Midwest Repair click the links.
