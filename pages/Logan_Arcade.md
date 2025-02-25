@@ -4,7 +4,10 @@ layout: about
 permalink: /Logan_Arcade.html
 ---
 # Logan Arcade
-<img src="https://strikerz45.github.io/Coin-op/objects/Front_Building.JPG" alt="Front of Logan Building"  height="450"> <img src="https://strikerz45.github.io/Coin-op/objects/Pinball_Machines_04.JPG" alt="Front of Logan Building"  height="100">
+<img src="https://strikerz45.github.io/Coin-op/objects/Pinball_Machines_01.JPG" alt="Pinball Hall"  height="450"> 
 
+Logan arcade is a popular barcade(bar+arcade) in the Chicago area. It's one of the city's top spots for classic arcade gaming, home to 25 pinball machines, a solid collection of retro games, and a solid bar menu. The arcade has a solid collection of pinball machines, all restored back to their former glory and used for the arcade's local pinball league. 
+## Jim Zespy
+<img src="https://strikerz45.github.io/Coin-op/objects/Jim_Zespy.JPG" alt="Jim Zespy"  height="450"> 
 
-Logan arcade is a bit different compared to any other arcade in the Chicago area. The reason for that is because it primarily focuses on the collection of pinball machines. Having a room dedicated to pinball machines all lined up next to each other makes it a unique experience. The arcade still houses some arcade machines, but focuses more on the classic titles and rare machines, and being a bar makes it stand out from the rest.
+Owner of Logan arcade, Jim Zespy started his business in 2014 and has been growing ever since. Jim's collection of arcade machines all started when they were broken down. Jim would collect broken machines and restore them and make them available to be played in his arcade. Jim chooses what games to keep on the floor based on the popularity from the general public. JIm enjoys what he has built and his major concern is keeping everything maintained for his arcade machines because it's a good feeling seeing the broken machines having a second chance. 
