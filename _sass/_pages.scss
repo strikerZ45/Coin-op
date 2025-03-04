@@ -105,43 +105,43 @@
 
 /* Three columns side by side */
 .column {
-  float: left; !important;
-  width: 33.3%; !important;
-  margin-bottom: 16px; !important;
-  padding: 0 8px; !important;
+  float: left !important;
+  width: 33.3% !important;
+  margin-bottom: 16px !important;
+  padding: 0 8px !important;
 }
 
 /* Display the columns below each other instead of side by side on small screens */
 @media screen and (max-width: 650px) {
   .column {
-    width: 100%; !important;
-    display: block; !important;
+    width: 100% !important;
+    display: block !important;
   }
 }
 
 /* Add some shadows to create a card effect */
 .card {
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2); !important;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2) !important;
 }
 
 /* Some left and right padding inside the container */
 .container {
-  padding: 0 16px; !important;
+  padding: 0 16px !important;
 }
 
 /* Clear floats */
 .container::after, .row::after {
-  content: ""; !important;
-  clear: both; !important;
-  display: table; !important;
+  content: "" !important;
+  clear: both !important;
+  display: table !important;
 }
 
 .title {
-  color: grey; !important;
+  color: grey !important;
 }
 
 .button {
-  border: none;
+  border: none !important;
   outline: 0;
   display: inline-block;
   padding: 8px;
