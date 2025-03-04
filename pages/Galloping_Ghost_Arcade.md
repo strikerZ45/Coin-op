@@ -24,6 +24,14 @@ Davin Loh is a well known gamer at Galloping Ghost arcade, he has beaten many ar
 ## Collection
 <img src="https://strikerz45.github.io/Coin-op/objects/Arcades%205.jpg" alt="Arcades"  height="400">
 
+<p class="text-center my-3">
+    <audio controls class="w-100">
+        <source src="{{ src }}" >
+        Your browser does not support the audio element.
+    </audio>
+    {% unless include.caption == false %}<small class="figure-caption"><a href="{{ audio_link }}">{{ audio_caption }}</a></small>{% endunless %}
+</p>
+
 <img src="https://strikerz45.github.io/Coin-op/objects/Arcades%206.jpg" alt="Arcade"  height="400">
 
 <img src="https://strikerz45.github.io/Coin-op/objects/loh09.JPG" alt="Davin Int"  height="400">
