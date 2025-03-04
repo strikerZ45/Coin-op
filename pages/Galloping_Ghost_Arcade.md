@@ -8,6 +8,7 @@ permalink: /Galloping_Ghost_Arcade.html
 
 # Doc Mack
 <img src="https://strikerz45.github.io/Coin-op/objects/Portrait%201.jpg" alt="Doc Mack"  height="400">
+{% include feature/image.html objectid="GallopingGhost01;GallopingGHost02" %}
 
 {% include feature/audio.html objectid="GallopingGhost22" %}
 
