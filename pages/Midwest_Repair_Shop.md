@@ -21,6 +21,4 @@ Rich Huff started his business when he was a part time pinball repairman and als
 
 <img src="https://strikerz45.github.io/Coin-op/objects/Classic_Pinball_Machine_04.JPG" alt="Classic Pinball2"  height="450">
 
-<img src="https://strikerz45.github.io/Coin-op/objects/spanos02.jpg" alt="Spanos1"  height="450">
-
 To checkout more like interviews or more data from [George Spanos][George] or [Rich Huff][Rich] and [Midwest Repair][mid] click the links.
