@@ -1,7 +1,7 @@
 ---
 title: Midwest Repair Shop
 layout: about
-permalink: /George_Spanos.hml
+permalink: /George_Spanos.html
 ---
 # George Spanos
 <img src="https://strikerz45.github.io/Coin-op/objects/spanos01.jpg" alt="George Spanos"  height="450">
