@@ -18,10 +18,6 @@ Doc Mack is the owner of Galloping Ghost, which currently holds the title of the
 
 Galloping Ghost arcade is located in the Chicago area and is home to over 1,019 arcade machines from around the world. Galloping Ghost is home to an unmatched community of players that love the retro feel of classic arcade machines. If you're a competitive player or a casual player, Galloping Ghost is a home for many. All players in the community show respect to one another and love engaging with newbies to help them learn how to play. Galloping Ghost arcade has a $25 entry fee which has eliminated the need for quarters and tokens, which encourages new players to explore the vast number of games they have never played before. 
 
-## Davin Loh
-<img src="https://strikerz45.github.io/Coin-op/objects/loh01.JPG" alt="Davin Loh"  height="400">
-
-Davin Loh is a well known gamer at Galloping Ghost arcade, he has beaten many arcade game worlds records within Doc Macks collection. He is so good at many games, but the one game he is well known for is "Capcom vs SNK 2". For the arcade and the community he has brought such a positive look by being a great player and Doc Mack knows that and has been thankful for Davin and they have been great friends because of this collection of arcade machines.
 
 ## Collection
 
