@@ -18,3 +18,33 @@ permalink: /Interviews.html
       </div>
     </div>
   </div>
+ <div class="column">
+    <div class="card">
+      <img src="https://strikerz45.github.io/Coin-op/objects/Sean_Davis_Portrait.jpg" alt="Sean" style="width:100%">
+      <div class="container">
+        <h2>Sean Davis</h2>
+        <p class="title">Art Director</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <a href="https://strikerz45.github.io/Coin-op/Lucky_Strike_Arcade.html">
+        <p><button class="button">Contact</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="https://strikerz45.github.io/Coin-op/objects/spanos01.jpg" alt="Spanos" style="width:100%">
+      <div class="container">
+        <h2>George Spanos</h2>
+        <p class="title">Designer</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <p>example@example.com</p>
+        <a href="https://strikerz45.github.io/Coin-op/item.html?id=georgeSpanos03">
+        <p><button class="button">Contact</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
