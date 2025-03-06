@@ -22,7 +22,7 @@ permalink: /Interviews.html
       <img src="https://strikerz45.github.io/Coin-op/objects/Sean_Davis_Portrait.jpg" alt="Sean" style="width:100%">
       <div class="container">
         <h2>Sean Davis</h2>
-        <p class="title">Art Director</p>
+        <p class="title">Director</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <a href="https://strikerz45.github.io/Coin-op/Lucky_Strike_Arcade.html">
         <p><button class="button">Learn more</button></p>
@@ -36,7 +36,7 @@ permalink: /Interviews.html
       <img src="https://strikerz45.github.io/Coin-op/objects/spanos01.jpg" alt="Spanos" style="width:100%">
       <div class="container">
         <h2>George Spanos</h2>
-        <p class="title">Designer</p>
+        <p class="title">Free-Lancer</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <a href="https://strikerz45.github.io/Coin-op/item.html?id=georgeSpanos03">
         <p><button class="button">About</button></p>
