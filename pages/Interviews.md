@@ -11,9 +11,8 @@ permalink: /Interviews.html
         <h2>Doc Mack</h2>
         <p class="title">Owner &amp; Founder</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
         <a href="https://strikerz45.github.io/Coin-op/Galloping_Ghost_Arcade.html">
-        <p><button class="button">Contact</button></p>
+        <p><button class="button">More about</button></p>
         </a>
       </div>
     </div>
@@ -25,9 +24,8 @@ permalink: /Interviews.html
         <h2>Sean Davis</h2>
         <p class="title">Art Director</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
         <a href="https://strikerz45.github.io/Coin-op/Lucky_Strike_Arcade.html">
-        <p><button class="button">Contact</button></p>
+        <p><button class="button">Learn more</button></p>
         </a>
       </div>
     </div>
@@ -40,9 +38,8 @@ permalink: /Interviews.html
         <h2>George Spanos</h2>
         <p class="title">Designer</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
         <a href="https://strikerz45.github.io/Coin-op/item.html?id=georgeSpanos03">
-        <p><button class="button">Contact</button></p>
+        <p><button class="button">About</button></p>
         </a>
       </div>
     </div>
