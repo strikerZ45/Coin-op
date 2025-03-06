@@ -1,6 +1,6 @@
 ---
 title: Interviews
-layout: default
+layout: page
 permalink: /Interviews.html
 ---
 <div class="row">
