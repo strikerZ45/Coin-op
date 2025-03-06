@@ -1,5 +1,5 @@
 ---
 title: Interviews
-layout: page
+layout: default
 permalink: /Interviews.html
 ---
