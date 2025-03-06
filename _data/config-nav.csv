@@ -1,10 +1,6 @@
 display_name,stub,dropdown_parent
 Home,/
 Browse,/browse.html
-Subjects,/subjects.html
-Locations,/locations.html
-Map,/map.html
-Data,/data.html
 Interviews,/Interviews.html
 History Of,,
 Lucky Strike,/Lucky_Strike_Arcade.html,History Of
@@ -13,4 +9,8 @@ George Spanos,/George_Spanos.html,History Of
 David Loh,/Davin_Loh.html,History Of
 Logan Arcade,/Logan_Arcade.html,History Of
 Midwest,/Midwest_Repair_Shop.html,History Of
+Subjects,/subjects.html
+Locations,/locations.html
+Map,/map.html
+Data,/data.html
 About,about.html,
