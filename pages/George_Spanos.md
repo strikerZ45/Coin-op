@@ -4,7 +4,6 @@ layout: about
 permalink: /George_Spanos.html
 ---
 # George Spanos
-<img src="https://strikerz45.github.io/Coin-op/objects/spanos01.jpg" alt="George Spanos"  height="450">
 {% include feature/image.html objectid="GeorgeSpanos01" %}
 
 {% include feature/audio.html objectid="GeorgeSpanos03" %}
