@@ -11,7 +11,7 @@ permalink: /Interviews.html
         <h2>Doc Mack</h2>
         <p class="title">Owner &amp; Founder</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <a href="https://github.com/strikerZ45/Coin-op/blob/main/pages/Doc_Mack,html">
+        <a href="https://strikerz45.github.io/Coin-op/Doc_Mack.html">
         <p><button class="button">More about</button></p>
         </a>
       </div>
