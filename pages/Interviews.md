@@ -1,6 +1,6 @@
 ---
 title: Interviews
 layout: default
-permalink: /Interview.html
+permalink: /Interviews.html
 ---
 hello
