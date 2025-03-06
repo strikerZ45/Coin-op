@@ -38,7 +38,7 @@ permalink: /Interviews.html
         <h2>George Spanos</h2>
         <p class="title">Freelancer</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <a href="https://strikerz45.github.io/Coin-op/item.html?id=georgeSpanos03">
+        <a href="https://strikerz45.github.io/Coin-op/George_Spanos.html">
         <p><button class="button">About</button></p>
         </a>
       </div>
