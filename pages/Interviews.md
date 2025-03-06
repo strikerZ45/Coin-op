@@ -24,7 +24,7 @@ permalink: /Interviews.html
         <h2>Sean Davis</h2>
         <p class="title">Director</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <a href="https://strikerz45.github.io/Coin-op/Lucky_Strike_Arcade.html">
+        <a href="https://strikerz45.github.io/Coin-op/Sean_Davis.html">
         <p><button class="button">Learn more</button></p>
         </a>
       </div>
