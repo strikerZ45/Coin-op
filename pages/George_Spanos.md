@@ -1,5 +1,5 @@
 ---
-title: Midwest Repair Shop
+title: George Spanos Repair
 layout: about
 permalink: /George_Spanos.html
 ---
