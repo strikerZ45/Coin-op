@@ -6,7 +6,7 @@ permalink: /Sean_Davis.html
 
 # Sean Davis
 
-{% include feature/image.html objectid="LuckyStrike09" %}
+{% include feature/image.html objectid="LuckyStrike09" width="75" %}
 
 {% include feature/audio.html objectid="LuckyStrike19" %}
 
