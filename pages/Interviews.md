@@ -70,6 +70,19 @@ permalink: /Interviews.html
         </a>
       </div>
     </div>
+    
+  <div class="column">
+    <div class="card">
+      <img src="https://strikerz45.github.io/Coin-op/objects/Repair_Shop_02.JPG" alt="Huff" style="width:100%">
+      <div class="container">
+        <h2>Rich Huff</h2>
+        <p class="title">Repair man</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <a href="https://strikerz45.github.io/Coin-op/Rich_Huff.html">
+        <p><button class="button">Learn more</button></p>
+        </a>
+      </div>
+    </div>
 
 
 
