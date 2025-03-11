@@ -156,8 +156,8 @@
   background-color: #555 !important;
 }
 
-.button {
-  border-radius: 4px;
+.buttonH {
+  border-radius: 4px !important;
   background-color: #f4511e;
   border: none;
   color: #FFFFFF;
@@ -178,12 +178,12 @@
 }
 
 .button span:after {
-  content: '\00bb';
-  position: absolute;
-  opacity: 0;
-  top: 0;
-  right: -20px;
-  transition: 0.5s;
+  content: '\00bb' !important;
+  position: absolute !important;
+  opacity: 0 !important;
+  top: 0 !important;
+  right: -20px !important;
+  transition: 0.5s !important;
 }
 
 .button:hover span {
