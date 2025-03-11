@@ -43,7 +43,7 @@ permalink: /Interviews.html
       </div>
     </div>
   </div>
-</div>
+  
   <div class="column">
     <div class="card">
       <img src="https://strikerz45.github.io/Coin-op/objects/Jim_Zespy.JPG" alt="Jim" style="width:100%">
@@ -71,3 +71,12 @@ permalink: /Interviews.html
       </div>
     </div>
 
+
+
+
+
+
+
+
+    
+ </div>
