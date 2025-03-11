@@ -157,14 +157,14 @@
 }
 
 .block {
-  display: block;
-  width: 100%;
-  border: none;
-  background-color: #04AA6D;
-  padding: 14px 28px;
-  font-size: 16px;
-  cursor: pointer;
-  text-align: center;
+  display: block !important;
+  width: 100% !important;
+  border: none !important;
+  background-color: #04AA6D !important;
+  padding: 14px 28px !important;
+  font-size: 16px !important;
+  cursor: pointer !important;
+  text-align: center !important;
 }
 /*
 .logan-arcade-page {
