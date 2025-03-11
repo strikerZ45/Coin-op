@@ -153,11 +153,11 @@
 }
 
 .buttonH:hover {
-  background-color: #555 !important;
+  background-color: #555;
 }
 
 .buttonH {
-  border-radius: 4px !important;
+  border-radius: 4px;
   background-color: #f4511e;
   border: none;
   color: #FFFFFF;
@@ -171,28 +171,28 @@
 }
 
 .buttonH span {
-  cursor: pointer !important;
-  display: inline-block !important;
-  position: relative !important;
-  transition: 0.5s !important;
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
 }
 
 .buttonH span:after {
-  content: '\00bb' !important;
-  position: absolute !important;
-  opacity: 0 !important;
-  top: 0 !important;
-  right: -20px !important;
-  transition: 0.5s !important;
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
 }
 
 .buttonH:hover span {
-  padding-right: 25px !important;
+  padding-right: 25px;
 }
 
 .buttonH:hover span:after {
-  opacity: 1 !important;
-  right: 0 !important;
+  opacity: 1;
+  right: 0;
 }
 /*
 .logan-arcade-page {
