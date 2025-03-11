@@ -152,7 +152,7 @@
   width: 100% !important;
 }
 
-.button:hover {
+.buttonH:hover {
   background-color: #555 !important;
 }
 
@@ -170,14 +170,14 @@
   margin: 5px;
 }
 
-.button span {
+.buttonH span {
   cursor: pointer !important;
   display: inline-block !important;
   position: relative !important;
   transition: 0.5s !important;
 }
 
-.button span:after {
+.buttonH span:after {
   content: '\00bb' !important;
   position: absolute !important;
   opacity: 0 !important;
@@ -186,11 +186,11 @@
   transition: 0.5s !important;
 }
 
-.button:hover span {
+.buttonH:hover span {
   padding-right: 25px !important;
 }
 
-.button:hover span:after {
+.buttonH:hover span:after {
   opacity: 1 !important;
   right: 0 !important;
 }
