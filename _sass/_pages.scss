@@ -171,10 +171,10 @@
 }
 
 .button span {
-  cursor: pointer;
-  display: inline-block;
-  position: relative;
-  transition: 0.5s;
+  cursor: pointer !important;
+  display: inline-block !important;
+  position: relative !important;
+  transition: 0.5s !important;
 }
 
 .button span:after {
@@ -187,12 +187,12 @@
 }
 
 .button:hover span {
-  padding-right: 25px;
+  padding-right: 25px !important;
 }
 
 .button:hover span:after {
-  opacity: 1;
-  right: 0;
+  opacity: 1 !important;
+  right: 0 !important;
 }
 /*
 .logan-arcade-page {
