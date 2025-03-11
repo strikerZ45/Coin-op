@@ -70,7 +70,8 @@ permalink: /Interviews.html
         </a>
       </div>
     </div>
-    
+  </div>
+  
   <div class="column">
     <div class="card">
       <img src="https://strikerz45.github.io/Coin-op/objects/Repair_Shop_02.JPG" alt="Huff" style="width:100%">
@@ -83,7 +84,7 @@ permalink: /Interviews.html
         </a>
       </div>
     </div>
-
+  </div>
 
 
 
