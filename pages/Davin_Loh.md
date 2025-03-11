@@ -5,7 +5,7 @@ permalink: /Davin_Loh.html
 ---
 
 # Davin Loh
-{% include feature/image.html objectid="DavinLoh008" width="55" %}
+{% include feature/image.html objectid="DavinLoh008" width="50" %}
 
 {% include feature/audio.html objectid="DavinLoh014" %}
 
