@@ -12,7 +12,7 @@ permalink: /Interviews.html
         <p class="title">Owner &amp; Founder</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <a href="https://strikerz45.github.io/Coin-op/Doc_Mack.html">
-        <p><button class="button">More about</button></p>
+        <p><button class="button">Learn more</button></p>
         </a>
       </div>
     </div>
@@ -39,7 +39,22 @@ permalink: /Interviews.html
         <p class="title">Freelancer</p>
         <p>Some text that describes me lorem ipsum ipsum lorem.</p>
         <a href="https://strikerz45.github.io/Coin-op/George_Spanos.html">
-        <p><button class="button">About</button></p>
+        <p><button class="button">Learn more</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="column">
+    <div class="card">
+      <img src="https://strikerz45.github.io/Coin-op/objects/Jim_Zespy.JPG" alt="Jim" style="width:100%">
+      <div class="container">
+        <h2>Jim Zespy</h2>
+        <p class="title">Owner</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <a href="https://strikerz45.github.io/Coin-op/Jim_Zespy.html">
+        <p><button class="button">Learn more</button></p>
         </a>
       </div>
     </div>
