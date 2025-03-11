@@ -5,7 +5,7 @@ permalink: /Jim_Zespy.html
 ---
 
 # Jim Zespy
-{% include feature/image.html objectid="LoganArcade18" width="52" %}
+{% include feature/image.html objectid="LoganArcade18" width="51" %}
 
 {% include feature/audio.html objectid="LoganArcade19" %}
 
