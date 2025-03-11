@@ -1,6 +1,6 @@
 ---
 title: Interviews
-layout: about
+layout: default
 permalink: /Interviews.html
 ---
 <div class="row">
@@ -17,7 +17,6 @@ permalink: /Interviews.html
       </div>
     </div>
   </div>
-  
  <div class="column">
     <div class="card">
       <img src="https://strikerz45.github.io/Coin-op/objects/Sean_Davis_Portrait.jpg" alt="Sean" style="width:100%">
@@ -31,7 +30,6 @@ permalink: /Interviews.html
       </div>
     </div>
   </div>
-
   <div class="column">
     <div class="card">
       <img src="https://strikerz45.github.io/Coin-op/objects/spanos01.jpg" alt="Spanos" style="width:100%">
@@ -46,7 +44,6 @@ permalink: /Interviews.html
     </div>
   </div>
 </div>
-
   <div class="column">
     <div class="card">
       <img src="https://strikerz45.github.io/Coin-op/objects/Jim_Zespy.JPG" alt="Jim" style="width:100%">
@@ -61,7 +58,6 @@ permalink: /Interviews.html
     </div>
   </div>
 </div>
-
 <div class="row">
   <div class="column">
     <div class="card">
