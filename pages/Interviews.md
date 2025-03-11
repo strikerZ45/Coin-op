@@ -17,6 +17,7 @@ permalink: /Interviews.html
       </div>
     </div>
   </div>
+  
  <div class="column">
     <div class="card">
       <img src="https://strikerz45.github.io/Coin-op/objects/Sean_Davis_Portrait.jpg" alt="Sean" style="width:100%">
@@ -61,4 +62,17 @@ permalink: /Interviews.html
   </div>
 </div>
 
-
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="https://strikerz45.github.io/Coin-op/objects/loh10.JPG" alt="doc" style="width:100%">
+      <div class="container">
+        <h2>Davin Loh</h2>
+        <p class="title">Gamer</p>
+        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
+        <a href="https://strikerz45.github.io/Coin-op/Davin_Loh.html">
+        <p><button class="button">Learn more</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
