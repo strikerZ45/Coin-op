@@ -57,8 +57,7 @@ permalink: /Interviews.html
       </div>
     </div>
   </div>
-</div>
-<div class="row">
+
   <div class="column">
     <div class="card">
       <img src="https://strikerz45.github.io/Coin-op/objects/loh10.JPG" alt="Loh" style="width:100%">
@@ -71,4 +70,4 @@ permalink: /Interviews.html
         </a>
       </div>
     </div>
-  </div>
+
