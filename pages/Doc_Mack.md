@@ -7,7 +7,7 @@ permalink: /Doc_Mack.html
 
 
 # Doc Mack
-{% include feature/image.html objectid="GallopingGhost01;GallopingGhost02" width="53" %}
+{% include feature/image.html objectid="GallopingGhost01;GallopingGhost02" width="51" %}
 
 {% include feature/audio.html objectid="GallopingGhost22" %}
 
