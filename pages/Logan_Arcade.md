@@ -11,4 +11,4 @@ Logan arcade is a popular barcade(bar+arcade) in the Chicago area. It's one of t
 
 
 ## Collection
- {% include feature/button.html text="Button To Collection" link="https://strikerz45.github.io/Coin-op/item.html?id=LoganArcade20" color="dark" %}
+ {% include feature/button.html text="Click Me" link="https://strikerz45.github.io/Coin-op/item.html?id=LoganArcade20" color="dark" %}
