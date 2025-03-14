@@ -13,4 +13,4 @@ Galloping Ghost arcade is located in the Chicago area and is home to over 1,019 
 
 ## Collection
 
- {% include feature/button.html text="Button Link to Somewhere" link="https://strikerz45.github.io/Coin-op/item.html?id=GallopingGhost23" color="dark" %}
+ {% include feature/button.html text=""Button To Collection" link="https://strikerz45.github.io/Coin-op/item.html?id=GallopingGhost23" color="dark" %}
