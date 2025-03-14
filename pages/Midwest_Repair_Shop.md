@@ -11,4 +11,4 @@ Midwest is a small privately owned shop that does repair work to pinball machine
 
 
 ## Collection
- {% include feature/button.html text="Button Link to Somewhere" link="https://strikerz45.github.io/Coin-op/item.html?id=MidWest14" color="success" %}
+ {% include feature/button.html text="Click Me" link="https://strikerz45.github.io/Coin-op/item.html?id=MidWest14" color="dark" %}
