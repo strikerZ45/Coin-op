@@ -5,7 +5,7 @@ permalink: /Andrew_Breyer.html
 ---
 
 # Andrew Breyer
-{% include feature/image.html objectid="Andrew02" width="100" %}
+{% include feature/image.html objectid="Andrew02" width="50" %}
 
 
 
