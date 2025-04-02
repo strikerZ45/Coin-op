@@ -4,7 +4,7 @@ layout: about
 permalink: /Chris_Dammacco.html
 ---
 
-# Jim Zespy
+# Chris Dammacco
 {% include feature/image.html objectid="Chris61" width="50" %}
 
 {% include feature/audio.html objectid="Chris62" %}
