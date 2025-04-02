@@ -102,7 +102,7 @@ permalink: /Interviews.html
 
   <div class="column">
     <div class="card">
-      <img src="https://strikerz45.github.io/Coin-op/objects/Andrew_Port.jpg" alt="And" style="width:100%">
+      <img src="https://strikerz45.github.io/Coin-op/objects/David_Bishop_Portrait.JPG" alt="Dave" style="width:100%">
       <div class="container">
         <h2>David Bishop</h2>
         <p class="title">Vice President of Namco USA</p>
