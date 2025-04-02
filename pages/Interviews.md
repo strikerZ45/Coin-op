@@ -91,9 +91,38 @@ permalink: /Interviews.html
       <img src="https://strikerz45.github.io/Coin-op/objects/Andrew_Port.jpg" alt="And" style="width:100%">
       <div class="container">
         <h2>Andrew Breyer</h2>
-        <p class="title"></p>
-        <p>.</p>
+        <p class="title">Champion Player</p>
+        <p></p>
         <a href="https://strikerz45.github.io/Coin-op/Andrew_Breyer.html">
+        <p><button class="button">Learn more</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="https://strikerz45.github.io/Coin-op/objects/Andrew_Port.jpg" alt="And" style="width:100%">
+      <div class="container">
+        <h2>David Bishop</h2>
+        <p class="title">Vice President of Namco USA</p>
+        <p></p>
+        <a href="https://strikerz45.github.io/Coin-op/David_Bishop.html">
+        <p><button class="button">Learn more</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="column">
+    <div class="card">
+      <img src="https://strikerz45.github.io/Coin-op/objects/Chris_Dammacco_Portrait.jpg" alt="Chris" style="width:100%">
+      <div class="container">
+        <h2>Chris Dammacco</h2>
+        <p class="title">Video Game Shop Owner</p>
+        <p></p>
+        <a href="https://strikerz45.github.io/Coin-op/Chris_Dammacco.html">
         <p><button class="button">Learn more</button></p>
         </a>
       </div>
@@ -102,7 +131,123 @@ permalink: /Interviews.html
 
 
 
+  <div class="column">
+    <div class="card">
+      <img src="https://strikerz45.github.io/Coin-op/objects/Jason_MugShot.JPG" alt="Jas" style="width:100%">
+      <div class="container">
+        <h2>Jason Camberis</h2>
+        <p class="title"></p>
+        <p></p>
+        <a href="https://strikerz45.github.io/Coin-op/Jason_Camberis.html">
+        <p><button class="button">Learn more</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
 
 
+  <div class="column">
+    <div class="card">
+      <img src="https://strikerz45.github.io/Coin-op/objects/Jessica_Kent_Portrait2.jpg" alt="Jes" style="width:100%">
+      <div class="container">
+        <h2>Jessica Kent</h2>
+        <p class="title"></p>
+        <p></p>
+        <a href="https://strikerz45.github.io/Coin-op/Jessica_Kent.html">
+        <p><button class="button">Learn more</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="column">
+    <div class="card">
+      <img src="" alt="Jas" style="width:100%">
+      <div class="container">
+        <h2>Josh Tsui</h2>
+        <p class="title"></p>
+        <p></p>
+        <a href="https://strikerz45.github.io/Coin-op/Josh_Tsui.html">
+        <p><button class="button">Learn more</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="column">
+    <div class="card">
+      <img src="https://strikerz45.github.io/Coin-op/objects/Larry_Portrait4.jpg" alt="Larry" style="width:100%">
+      <div class="container">
+        <h2>Larry Wilson</h2>
+        <p class="title"></p>
+        <p></p>
+        <a href="https://strikerz45.github.io/Coin-op/Larry_Wilson.html">
+        <p><button class="button">Learn more</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="column">
+    <div class="card">
+      <img src="https://strikerz45.github.io/Coin-op/objects/Rob_Lach_Portrait2.jpg" alt="Rob" style="width:100%">
+      <div class="container">
+        <h2>Rob Lach</h2>
+        <p class="title"></p>
+        <p></p>
+        <a href="https://strikerz45.github.io/Coin-op/Rob_Lach.html">
+        <p><button class="button">Learn more</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="column">
+    <div class="card">
+      <img src="https://strikerz45.github.io/Coin-op/objects/Sheri_Rubin_Portrait3.jpg" alt="Sheri" style="width:100%">
+      <div class="container">
+        <h2>Sheri Rubin</h2>
+        <p class="title"></p>
+        <p></p>
+        <a href="https://strikerz45.github.io/Coin-op/Sheri_Rubin.html">
+        <p><button class="button">Learn more</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="column">
+    <div class="card">
+      <img src="https://strikerz45.github.io/Coin-op/objects/Arcade_Machine.jpg" alt="TerryJeff" style="width:100%">
+      <div class="container">
+        <h2>Terry Minnich & Jeff Lee</h2>
+        <p class="title"></p>
+        <p></p>
+        <a href="https://strikerz45.github.io/Coin-op/Terry_and_Jeff.html">
+        <p><button class="button">Learn more</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="column">
+    <div class="card">
+      <img src="https://strikerz45.github.io/Coin-op/objects/Todd_Friedman_Portrait2.jpg" alt="Todd" style="width:100%">
+      <div class="container">
+        <h2>Todd Friedman</h2>
+        <p class="title"></p>
+        <p></p>
+        <a href="https://strikerz45.github.io/Coin-op/Todd Friedman.html">
+        <p><button class="button">Learn more</button></p>
+        </a>
+      </div>
+    </div>
+  </div>
     
  </div>
