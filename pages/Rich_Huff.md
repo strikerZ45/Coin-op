@@ -14,4 +14,4 @@ permalink: /Rich_Huff.html
 
 
 ## About
-Rich Huff started his business when he was a part time pinball repair man and also worked as a business consultant. The shop services any type of pinball machine because Rich has experience on working on the earliest pinball machines all the way up to the modern ones. 
+Midwest Pinball is privately owned and operated by Rich Huff. Rich does repair and cleaning work for pinball machines in the Chicago area. Midwest Pinball does not do work on commercial units, as the company is structured to help residential customers who own pinball machines keep their machines like new. Midwest pinball has been in operation since 2001 when Rich worked part time as a pinball repairman and also worked full time as a business consultant. Rich eventually switched to working Midwest full time around 2008. Midwest services pinball machines of all types from a range of production dates. Rich has experience working on some of the earliest models of pinball machines all the way up to more modern units. Rich’s expertise in the industry and willingness to get the ball rolling will have you playing your games in no time at all.
