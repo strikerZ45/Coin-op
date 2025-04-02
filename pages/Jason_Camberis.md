@@ -5,9 +5,9 @@ permalink: /Jason_Camberis.html
 ---
 
 # Jason Camberis
-{% include feature/image.html objectid="Jason04" width="40" %}
+{% include feature/image.html objectid="Jason04" width="40" %} {% include feature/pdf.html objectid="Jason07" width="50" %}
 
-{% include feature/audio.html objectid="Jason05" %} {% include feature/audio.html objectid="Jason06" %}
+{% include feature/audio.html objectid="Jason05" %} 
 {% include feature/audio.html objectid="Jason06" %}
 
 
