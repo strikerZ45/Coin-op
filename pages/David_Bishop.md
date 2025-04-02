@@ -5,7 +5,7 @@ permalink: /David_Bishop.html
 ---
 
 # David Bishop
-{% include feature/image.html objectid="David02" width="50" %}
+{% include feature/image.html objectid="David02" width="52" %}
 
 {% include feature/audio.html objectid="David03" %}
 
