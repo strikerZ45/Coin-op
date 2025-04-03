@@ -243,7 +243,7 @@ permalink: /Interviews.html
         <h2>Todd Friedman</h2>
         <p class="title"></p>
         <p></p>
-        <a href="https://strikerz45.github.io/Coin-op/Todd Friedman.html">
+        <a href="https://strikerz45.github.io/Coin-op/Todd_Friedman.html">
         <p><button class="button">Learn more</button></p>
         </a>
       </div>
