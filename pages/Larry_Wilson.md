@@ -1,6 +1,6 @@
 ---
 title: Larry Wilson
-layout: mydefault
+layout: about
 permalink: /Larry_Wilson.html
 ---
 
