@@ -92,7 +92,7 @@ permalink: /Interviews.html
       <div class="container">
         <h2>Andrew Breyer</h2>
         <p class="title">Champion Player</p>
-        <p></p>
+        <p>Andy Breyer won the 1981 Asteroids world championship, earning recognition in the arcade gaming scene. A lifelong fan of classic games, he later appeared in an Atari commercial and remains passionate about retro gaming while working as an IT manager.</p>
         <a href="https://strikerz45.github.io/Coin-op/Andrew_Breyer.html">
         <p><button class="button">Learn more</button></p>
         </a>
@@ -106,7 +106,7 @@ permalink: /Interviews.html
       <div class="container">
         <h2>David Bishop</h2>
         <p class="title">Vice President of Namco USA</p>
-        <p></p>
+        <p>David L. Bishop, VP of Namco USA, promotes making games more accessible through social experiences like Level 257. He believes games are an art form and has witnessed the shift from controversy to wider acceptance.</p>
         <a href="https://strikerz45.github.io/Coin-op/David_Bishop.html">
         <p><button class="button">Learn more</button></p>
         </a>
@@ -121,7 +121,7 @@ permalink: /Interviews.html
       <div class="container">
         <h2>Chris Dammacco</h2>
         <p class="title">Video Game Shop Owner</p>
-        <p></p>
+        <p>Chris Dammacco founded Windy Gaming in 2015, focusing on Japanese imports with personalized service and affordable prices, growing a loyal customer base.</p>
         <a href="https://strikerz45.github.io/Coin-op/Chris_Dammacco.html">
         <p><button class="button">Learn more</button></p>
         </a>
@@ -136,8 +136,8 @@ permalink: /Interviews.html
       <img src="https://strikerz45.github.io/Coin-op/objects/Jason_MugShot.JPG" alt="Jas" style="width:100%">
       <div class="container">
         <h2>Jason Camberis</h2>
-        <p class="title"></p>
-        <p></p>
+        <p class="title">Arcade Designer</p>
+        <p>Jason Camberis holds a Guinness World Record for the largest arcade machine, the LAMP, and now builds home arcade systems while working in various tech fields.</p>
         <a href="https://strikerz45.github.io/Coin-op/Jason_Camberis.html">
         <p><button class="button">Learn more</button></p>
         </a>
@@ -151,8 +151,8 @@ permalink: /Interviews.html
       <img src="https://strikerz45.github.io/Coin-op/objects/Jessica_Kent_Portrait2.jpg" alt="Jes" style="width:100%">
       <div class="container">
         <h2>Jessica Kent</h2>
-        <p class="title"></p>
-        <p></p>
+        <p class="title">Founder of Down to Flip</p>
+        <p>Jessica Kent, founder of Down to Flip, promotes diversity in pinball and arcade gaming, encouraging women and younger generations to join the community.</p>
         <a href="https://strikerz45.github.io/Coin-op/Jessica_Kent.html">
         <p><button class="button">Learn more</button></p>
         </a>
@@ -166,8 +166,8 @@ permalink: /Interviews.html
       <img src="" alt="Jas" style="width:100%">
       <div class="container">
         <h2>Josh Tsui</h2>
-        <p class="title"></p>
-        <p></p>
+        <p class="title">President and Co-Founder of Robomodo</p>
+        <p>Josh Tsui, co-founder of Robomodo, has worked on games like Mortal Kombat and Tony Hawk’s Pro Skater HD. He’s now creating a documentary on 90s video game development.</p>
         <a href="https://strikerz45.github.io/Coin-op/Josh_Tsui.html">
         <p><button class="button">Learn more</button></p>
         </a>
@@ -182,8 +182,8 @@ permalink: /Interviews.html
       <img src="https://strikerz45.github.io/Coin-op/objects/Larry_Portrait4.jpg" alt="Larry" style="width:100%">
       <div class="container">
         <h2>Larry Wilson</h2>
-        <p class="title"></p>
-        <p></p>
+        <p class="title">Machine Restoration Expert</p>
+        <p>Larry Wilson restores vintage electromechanical machines, including pinball cabinets and Coke machines, finding satisfaction in the repair process and connecting with other enthusiasts.</p>
         <a href="https://strikerz45.github.io/Coin-op/Larry_Wilson.html">
         <p><button class="button">Learn more</button></p>
         </a>
@@ -211,8 +211,8 @@ permalink: /Interviews.html
       <img src="https://strikerz45.github.io/Coin-op/objects/Sheri_Rubin_Portrait3.jpg" alt="Sheri" style="width:100%">
       <div class="container">
         <h2>Sheri Rubin</h2>
-        <p class="title"></p>
-        <p></p>
+        <p class="title">Industy Advocate for Women in Gaming</p>
+        <p>Sheri Rubin, former QA tester and founder of Design Direct Deliver, advocates for women and diversity in gaming through volunteering and leadership roles.</p>
         <a href="https://strikerz45.github.io/Coin-op/Sheri_Rubin.html">
         <p><button class="button">Learn more</button></p>
         </a>
@@ -226,8 +226,9 @@ permalink: /Interviews.html
       <img src="https://strikerz45.github.io/Coin-op/objects/Arcade_Machine.jpg" alt="TerryJeff" style="width:100%">
       <div class="container">
         <h2>Terry Minnich & Jeff Lee</h2>
-        <p class="title"></p>
-        <p></p>
+        <p class="title">Jeff Lee: Artist and Game Designer</p>
+        <p class="title">Terry Minnich: Editor and Gaming Collector</p>
+        <p>Jeff Lee, an artist behind Qbert and Exterminator, and Terry Minnich (Trickman Terry), a former EGM editor, shared their contributions to early gaming. Lee designed Qbert, while Minnich compiled tips and cheats for EGM, both shaping the gaming industry in different ways.</p>
         <a href="https://strikerz45.github.io/Coin-op/Terry_and_Jeff.html">
         <p><button class="button">Learn more</button></p>
         </a>
