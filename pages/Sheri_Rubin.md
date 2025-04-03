@@ -1,7 +1,7 @@
 ---
 title: Sheri Rubin
 layout: about
-permalink: /SHeri_Rubin.html
+permalink: /Sheri_Rubin.html
 ---
 
 # Sheri Rubin
