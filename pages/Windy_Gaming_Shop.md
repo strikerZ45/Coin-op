@@ -5,7 +5,7 @@ permalink: /Windy_Gaming_Shop.html
 ---
 
 # Windy Gaming
-{% include feature/image.html objectid="Chris50" width="40" %}
+{% include feature/image.html objectid="Chris49" width="40" %}
 
 
 
