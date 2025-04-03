@@ -1,6 +1,6 @@
 ---
 title: Jason Camberis
-layout: default
+layout: about
 permalink: /Jason_Camberis.html
 ---
 
