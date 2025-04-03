@@ -5,10 +5,12 @@ permalink: /Jessica_Kent.html
 ---
 
 # Jessica Kent
-{% include feature/image.html objectid="Jessica01" width="40" %}
+{% include feature/image.html objectid="Jessica01;Jessica03" width="40" %}
 
 
+{% include feature/pdf.html objectid="Jason07" width="50" %}
 
+{% include feature/audio.html objectid="Jessica05" %} 
 
 
 ## About
