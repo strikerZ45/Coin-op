@@ -163,7 +163,7 @@ permalink: /Interviews.html
 
   <div class="column">
     <div class="card">
-      <img src="" alt="Jas" style="width:100%">
+      <img src="" alt="" style="width:100%">
       <div class="container">
         <h2>Josh Tsui</h2>
         <p class="title">President and Co-Founder of Robomodo</p>
