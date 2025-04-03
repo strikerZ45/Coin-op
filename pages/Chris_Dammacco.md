@@ -5,7 +5,8 @@ permalink: /Chris_Dammacco.html
 ---
 
 # Chris Dammacco
-{% include feature/image.html objectid="Chris61" width="50" %}
+{% include feature/image.html objectid="Chris61,Chris21" width="50" %}
+{% include feature/pdf.html objectid="Chris63" width="50" %}
 
 {% include feature/audio.html objectid="Chris62" %}
 
