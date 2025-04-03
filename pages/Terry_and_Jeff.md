@@ -7,6 +7,8 @@ permalink: /Terry_and_Jeff.html
 # Terry Minnich & Jeff Lee
 {% include feature/image.html objectid="TerryJeff01;TerryJeff02" width="50" %}
 
+{% include feature/pdf.html objectid="TerryJeff12" width="50" %}
+
 {% include feature/audio.html objectid="TerryJeff09" %}
 {% include feature/audio.html objectid="TerryJeff10" %}
 {% include feature/audio.html objectid="TerryJeff11" %}
