@@ -196,8 +196,8 @@ permalink: /Interviews.html
       <img src="https://strikerz45.github.io/Coin-op/objects/Rob_Lach_Portrait2.jpg" alt="Rob" style="width:100%">
       <div class="container">
         <h2>Rob Lach</h2>
-        <p class="title"></p>
-        <p></p>
+        <p class="title">Indie Game Developer</p>
+        <p>Rob Lach is an indie developer known for POP: Methodology Experiment One, an experimental game built around music and art.</p>
         <a href="https://strikerz45.github.io/Coin-op/Rob_Lach.html">
         <p><button class="button">Learn more</button></p>
         </a>
