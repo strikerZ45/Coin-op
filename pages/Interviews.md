@@ -23,7 +23,7 @@ permalink: /Interviews.html
       <div class="container">
         <h2>Sean Davis</h2>
         <p class="title">Director</p>
-        <p>Director of the Lucky Strike arcade, which has many entertainment selections.</p>
+        <p>Lucky Strike FTW in Chicago, led by Sean Davis, offers arcade games, bowling, mini golf, and more. Davis oversees operations, ensuring smooth running while providing a fun, inclusive environment for all ages.</p>
         <a href="https://strikerz45.github.io/Coin-op/Sean_Davis.html">
         <p><button class="button">Learn more</button></p>
         </a>
@@ -64,7 +64,7 @@ permalink: /Interviews.html
       <div class="container">
         <h2>Davin Loh</h2>
         <p class="title">Gamer</p>
-        <p>A well known player at Galopping Ghost arcade.</p>
+        <p>Davin Loh is a top gamer at Galloping Ghost arcade, known for setting world records, especially in "Capcom vs SNK 2." He’s a positive influence on the arcade community and has a strong friendship with Doc Mack.</p>
         <a href="https://strikerz45.github.io/Coin-op/Davin_Loh.html">
         <p><button class="button">Learn more</button></p>
         </a>
@@ -78,7 +78,7 @@ permalink: /Interviews.html
       <div class="container">
         <h2>Rich Huff</h2>
         <p class="title">Repair man</p>
-        <p>Is a long time pinball machine repair man.</p>
+        <p>Rich Huff is the owner of Midwest Pinball, specializing in repairing and cleaning pinball machines for residential customers in Chicago. He went full-time in 2008, with expertise in machines from all eras.</p>
         <a href="https://strikerz45.github.io/Coin-op/Rich_Huff.html">
         <p><button class="button">Learn more</button></p>
         </a>
