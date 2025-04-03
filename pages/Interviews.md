@@ -36,7 +36,7 @@ permalink: /Interviews.html
       <div class="container">
         <h2>George Spanos</h2>
         <p class="title">Freelancer</p>
-        <p>George is a freelancer engineer that helps restore old arcade machines to get them to work again.</p>
+        <p>George Spanos is a freelance game technician in Schaumburg, Illinois, specializing in arcade repairs. He started in his grandparents' game room and now works with arcades around Chicago.</p>
         <a href="https://strikerz45.github.io/Coin-op/George_Spanos.html">
         <p><button class="button">Learn more</button></p>
         </a>
