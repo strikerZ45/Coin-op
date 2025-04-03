@@ -5,8 +5,9 @@ permalink: /Sheri_Rubin.html
 ---
 
 # Sheri Rubin
-{% include feature/image.html objectid="Sheri01" width="55" %}
+{% include feature/image.html objectid="Sheri01;Sheri04" width="55" %}
 
+{% include feature/pdf.html objectid="Sheri07" width="50" %}
 
 {% include feature/audio.html objectid="Sheri05" %}
 {% include feature/audio.html objectid="Sheri06" %}
