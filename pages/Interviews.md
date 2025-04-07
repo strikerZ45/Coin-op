@@ -242,8 +242,8 @@ permalink: /Interviews.html
       <img src="https://strikerz45.github.io/Coin-op/objects/Todd_Friedman_Portrait2.jpg" alt="Todd" style="width:100%">
       <div class="container">
         <h2>Todd Friedman</h2>
-        <p class="title"></p>
-        <p></p>
+        <p class="title">Arcade Technician</p>
+        <p>Todd, a technician at Galloping Ghost Arcade, shares his journey and work maintaining classic arcade games.</p>
         <a href="https://strikerz45.github.io/Coin-op/Todd_Friedman.html">
         <p><button class="button">Learn more</button></p>
         </a>
