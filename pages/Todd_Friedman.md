@@ -13,4 +13,4 @@ permalink: /Todd_Friedman.html
 
 
 ## About
-Todd's interview discusses his experiences in the arcade industry, including his background, career, and insights into game development and preservation. He reflects on the evolution of arcade gaming, the challenges of maintaining classic machines, and his passion for keeping the arcade culture alive. Todd also shares his thoughts on the future of arcades and the importance of community in preserving gaming history.
+Todd is a lead arcade technician at Galloping Ghost Arcade in Brookfield, Illinois. With a background in electronics and a lifelong passion for gaming, he plays a key role in maintaining and restoring over 880 classic arcade machines. His work involves constant troubleshooting, creative repairs, and preserving rare games using both vintage parts and modern solutions. Todd values the community, the history behind each machine, and the joy arcade gaming continues to bring.
