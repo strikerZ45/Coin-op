@@ -13,4 +13,6 @@ The business offers in-home repairs, full restorations, and machine sales, servi
 
 
 ## Collection
+
+To see more about Midwest.
  {% include feature/button.html text="Click Me" link="https://strikerz45.github.io/Coin-op/item.html?id=MidWest14" color="dark" %}
