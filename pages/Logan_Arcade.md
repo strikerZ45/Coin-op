@@ -7,7 +7,9 @@ permalink: /Logan_Arcade.html
 # Logan Arcade
 <img src="https://strikerz45.github.io/Coin-op/objects/Pinball_Machines_01.JPG" alt="Pinball Hall"  height="450"> 
 
-Logan arcade is a popular barcade(bar+arcade) in the Chicago area. It's one of the city's top spots for classic arcade gaming, home to 25 pinball machines, a solid collection of retro games, and a solid bar menu. The arcade has a solid collection of pinball machines, all restored back to their former glory and used for the arcade's local pinball league. 
+Logan Arcade in Chicago’s Logan Square began as Logan Hardware, a record store with a free retro arcade, opened by Jim Zespy in 2010. When the record store moved in 2013, Zespy turned the original space into Logan Arcade, which officially opened in February 2014 as a bar-arcade with vintage video games and pinball machines.
+
+Zespy, a pinball enthusiast, restored many of the machines himself, including rare ones like a Star Trek pinball signed by the cast. The arcade became known for quirky attractions like the Biscuits—robot dogs that played Misfits songs.
 
 
 ## Collection
