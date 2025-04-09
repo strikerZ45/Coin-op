@@ -8,7 +8,7 @@ permalink: /Rob_Lach.html
 
 # Rob Lach
 
-{% include feature/image.html objectid="Rob01;Rob02" width="50" %}
+{% include feature/image.html objectid="Rob01;Rob02" width="55" %}
 
 {% include feature/pdf.html objectid="Rob06" width="50" %}
 
