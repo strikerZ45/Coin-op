@@ -12,4 +12,4 @@ Lucky Strike FTW ( For the Win ) arcade is located in Streeterville, Chicago and
 ## Collection
 
 To see more about Lucky Strike Arcade.
- {% include feature/button.html text="Click Me" link="https://strikerz45.github.io/Coin-op/item.html?id=LuckyStrike20" color="dark" %}
+ {% include feature/button.html text="Click Me" link="https://strikerz45.github.io/Coin-op/item.html?id=LuckyStrike21" color="dark" %}
