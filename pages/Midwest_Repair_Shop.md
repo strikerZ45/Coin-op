@@ -5,7 +5,7 @@ permalink: /Midwest_Repair_Shop.html
 ---
 
 # Midwest Repair 
-<img src="https://strikerz45.github.io/Coin-op/objects/Broken_Pinball_Machine_02.JPG" alt="Broken Pinball1"  height="450">
+{% include feature/image.html objectid="MidWest10;MidWest07" width="40" %}
 
 Midwest Pinball Restoration was founded in 2002 by Rich Huff in Oak Park, Illinois. It specializes in the repair, restoration, and sales of pinball and vintage arcade machines. Rich, a lifelong pinball enthusiast, started the shop to preserve classic games he grew up loving.
 
