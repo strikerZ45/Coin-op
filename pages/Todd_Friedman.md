@@ -5,7 +5,7 @@ permalink: /Todd_Friedman.html
 ---
 
 # Todd Friedman
-{% include feature/image.html objectid="Todd01;Todd22" width="55" %}
+{% include feature/image.html objectid="Todd01;Todd22" width="60" %}
 
 {% include feature/pdf.html objectid="Todd27" width="50" %}
 
