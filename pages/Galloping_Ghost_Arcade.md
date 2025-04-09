@@ -16,5 +16,4 @@ It’s a landmark for preserving and celebrating arcade gaming culture.
 ## Collection
 
 To see more about Galloping Ghost.
-
  {% include feature/button.html text="Click Me" link="https://strikerz45.github.io/Coin-op/item.html?id=GallopingGhost23" color="dark" %}
