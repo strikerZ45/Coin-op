@@ -15,4 +15,4 @@ Zespy, a pinball enthusiast, restored many of the machines himself, including ra
 ## Collection
 
 To see more about Logan Arcade.
- {% include feature/button.html text="Click Me" link="https://strikerz45.github.io/Coin-op/item.html?id=LoganArcade20" color="dark" %}
+ {% include feature/button.html text="Click Me" link="https://strikerz45.github.io/Coin-op/item.html?id=LoganArcade21" color="dark" %}
