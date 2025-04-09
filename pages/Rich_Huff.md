@@ -9,6 +9,7 @@ permalink: /Rich_Huff.html
 # Rich Huff
 
 {% include feature/image.html objectid="MidWest12" width="50" %}
+{% include feature/pdf.html objectid="MidWest14" width="50" %}
 
 {% include feature/audio.html objectid="MidWest13" %}
 
