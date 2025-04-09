@@ -19,6 +19,6 @@ Unfortunately Windy Gaming has been shut down since January 2020.
 
 ## Collection
 
-To see more about Windy Gaming.
+To see more about Windy Gaming
 
  {% include feature/button.html text="Click Me" link="https://strikerz45.github.io/Coin-op/item.html?id=Chris64" color="dark" %}
