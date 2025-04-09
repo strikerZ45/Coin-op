@@ -5,7 +5,7 @@ permalink: /Larry_Wilson.html
 ---
 
 # Larry Wilson
-{% include feature/image.html objectid="Larry01;Larry17" width="50" %}
+{% include feature/image.html objectid="Larry03;Larry17" width="50" %}
 
 {% include feature/pdf.html objectid="Larry22" width="50" %}
 
