@@ -22,4 +22,4 @@ At a young age, Jason Camberis was always intrigued by Video games. He would go 
 ## Collection
 
 See full collection here:
- {% include feature/button.html text="Click Me"  link="https://strikerz45.github.io/Coin-op/item.html?id=Jason08" color="dark" %}
+ {% include feature/button.html text="Click Me" link="https://strikerz45.github.io/Coin-op/item.html?id=Jason08" color="dark" %}
