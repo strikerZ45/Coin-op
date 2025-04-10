@@ -15,4 +15,4 @@ George Spanos is a game technician living in Schaumburg, Illinois. He works free
 ## Collection
 
 See full collection here:
-  {% include feature/button.html text="Click Me" link= "https://strikerz45.github.io/Coin-op/item.html?id=GeorgeSpanos05" color="dark" %}
+ {% include feature/button.html text="Click Me" link="https://strikerz45.github.io/Coin-op/item.html?id=GeorgeSpanos05" color="dark" %}
