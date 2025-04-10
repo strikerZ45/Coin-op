@@ -19,4 +19,4 @@ Before video games were invented, people initially played coin-op games like ske
 ## Collection
 
 See full collection here:
- {% include feature/button.html text="Click Me"https://strikerz45.github.io/Coin-op/item.html?id=Jessica07" color="dark" %}
+ {% include feature/button.html text="Click Me" link="https://strikerz45.github.io/Coin-op/item.html?id=Jessica07" color="dark" %}
